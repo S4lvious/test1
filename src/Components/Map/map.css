@@ -1,0 +1,23 @@
+svg {
+    stroke: darkgray;
+    position: relative;
+    transform: scale(1.02);
+  }
+
+svg {
+    width: 100%;
+    height: 100%;
+    zoom: 100%;
+  }
+
+  .svg-container {
+      display: inline-block;
+      position: absolute;
+      top:0;
+      left:0;
+      right: 0;
+      bottom: 0;
+      overflow: hidden;
+      margin-top: -250px;
+  }
+  
